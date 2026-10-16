@@ -1,4 +1,4 @@
-# coderhause-superstore
+# Análisis de rentabilidad comercial
 1. Descripción del proyecto
 Este proyecto busca identificar qué combinaciones de región y subcategoría de productos presentan los márgenes de beneficio más bajos en el dataset Sample Superstore.
 A través de consultas SQL sobre PostgreSQL, se agrupan las ventas por región y subcategoría para calcular las ventas totales, el beneficio total, el descuento promedio y el margen de beneficio.
